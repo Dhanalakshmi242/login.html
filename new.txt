@@ -1,0 +1,8 @@
+hello World
+features branch changes
+stashing my changes
+<<<<<<< HEAD
+change made
+=======
+work done in feature branch
+>>>>>>> f9ca4b3 (feature-branch)
